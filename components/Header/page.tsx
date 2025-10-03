@@ -26,7 +26,7 @@ const Header: React.FC = () => {
           <div className="navbar-end">
             <div className="navbar-center hidden lg:flex">
               <div className="space-x-2">
-                <button className="bg-[#e9bb71] text-base font-semibold px-4 py-3 rounded-md">
+                <button className="bg-[#e9bb71] text-[#554b3a] text-base font-semibold px-4 py-3 rounded-md">
                   Free consultation
                 </button>
                 <button className="bg-[#295c51] text-white text-base font-semibold px-4 py-3 rounded-md">

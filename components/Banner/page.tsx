@@ -70,10 +70,10 @@ const Banner = () => {
       </div>
       <div className="lg:mt-20 mt-10">
         <div className="flex lg:flex-row md:flex-wrap flex-wrap items-center justify-between">
-          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[250px]">
+          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image src={"/affrin.svg"} width={100} height={100} alt="brand" />
           </div>
-          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[250px]">
+          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image
               src={"/microsoft.svg"}
               width={100}
@@ -81,10 +81,10 @@ const Banner = () => {
               alt="brand"
             />
           </div>
-          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[250px]">
+          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image src={"/novo.svg"} width={100} height={100} alt="brand" />
           </div>
-          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[250px]">
+          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image src={"/shofify.svg"} width={100} height={100} alt="brand" />
           </div>
           <div>

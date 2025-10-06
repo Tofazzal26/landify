@@ -1,4 +1,5 @@
 import Banner from "@/components/Banner/page";
+import Faq from "@/components/Faq/page";
 import FastSolution from "@/components/FastSolution/page";
 import HappyClient from "@/components/HappyClient/page";
 import OurService from "@/components/OurService/page";
@@ -14,6 +15,7 @@ export default function Home() {
       <Seamless />
       <HappyClient />
       <Pricing />
+      <Faq />
     </div>
   );
 }

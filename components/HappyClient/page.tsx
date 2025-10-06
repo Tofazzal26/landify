@@ -35,9 +35,9 @@ const HappyClient = () => {
                           <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
                           <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
                         </svg>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Voluptatibus quibusdam, eligendi exercitationem
-                        molestias possimus facere.
+                        {"It's"} always a pleasure to work with Will and his
+                        team. They are personable, responsive, and
+                        results-oriented!
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           viewBox="0 0 512 512"
@@ -77,9 +77,9 @@ const HappyClient = () => {
                           <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
                           <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
                         </svg>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Voluptatibus quibusdam, eligendi exercitationem
-                        molestias possimus facere.
+                        {"It's"} always a pleasure to work with Will and his
+                        team. They are personable, responsive, and
+                        results-oriented!
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           viewBox="0 0 512 512"
@@ -119,9 +119,9 @@ const HappyClient = () => {
                           <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
                           <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
                         </svg>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Voluptatibus quibusdam, eligendi exercitationem
-                        molestias possimus facere.
+                        {"It's"} always a pleasure to work with Will and his
+                        team. They are personable, responsive, and
+                        results-oriented!
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           viewBox="0 0 512 512"
@@ -161,9 +161,9 @@ const HappyClient = () => {
                           <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
                           <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>
                         </svg>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Voluptatibus quibusdam, eligendi exercitationem
-                        molestias possimus facere.
+                        {"It's"} always a pleasure to work with Will and his
+                        team. They are personable, responsive, and
+                        results-oriented!
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           viewBox="0 0 512 512"

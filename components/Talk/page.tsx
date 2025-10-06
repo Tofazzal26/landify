@@ -63,7 +63,7 @@ const Talk = () => {
                 rows={5}
                 className="w-full rounded-lg text-[#404040] px-5 py-3 outline-none bg-white mt-5"
               ></textarea>
-              <button className="bg-[#e9bb71] w-full px-6 py-3 rounded-lg font-medium mt-3">
+              <button className="bg-[#e9bb71] w-full px-6 py-3 rounded-lg font-medium mt-3 cursor-pointer">
                 Submit request
               </button>
             </div>

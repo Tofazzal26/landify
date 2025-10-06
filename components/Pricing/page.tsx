@@ -75,7 +75,7 @@ const Pricing = () => {
                   </ul>
                   <button
                     type="button"
-                    className="inline-block px-5 py-3 font-semibold tracking-wider text-center rounded bg-[#e9bb71] text-gray-900"
+                    className="inline-block px-5 py-3 font-semibold tracking-wider text-center rounded bg-[#e9bb71] text-gray-900 cursor-pointer"
                   >
                     Get Started
                   </button>
@@ -159,7 +159,7 @@ const Pricing = () => {
                   <a
                     rel="noopener noreferrer"
                     href="#"
-                    className="inline-block w-full px-5 py-3 font-bold tracking-wider text-center rounded bg-[#295c51] text-white"
+                    className="inline-block w-full px-5 py-3 font-bold tracking-wider text-center rounded bg-[#295c51] text-white cursor-pointer"
                   >
                     Get Started
                   </a>
@@ -258,7 +258,7 @@ const Pricing = () => {
                   <a
                     rel="noopener noreferrer"
                     href="#"
-                    className="inline-block w-full px-5 py-3 font-semibold tracking-wider text-center rounded bg-[#e9bb71] text-gray-900"
+                    className="inline-block w-full px-5 py-3 font-semibold tracking-wider text-center rounded bg-[#e9bb71] text-gray-900 cursor-pointer"
                   >
                     Get Started
                   </a>

@@ -20,7 +20,7 @@ const Banner = () => {
           </div>
           <div className="flex lg:flex-row md:flex-col flex-col lg:items-center gap-4">
             <div>
-              <button className="bg-[#e9bb71] text-base text-[#554b3a] font-semibold lg:px-5 lg:py-4 px-3 py-3 rounded-md">
+              <button className="bg-[#e9bb71] text-base text-[#554b3a] font-semibold lg:px-5 lg:py-4 px-3 py-3 rounded-md cursor-pointer">
                 Free consultation
               </button>
             </div>
@@ -87,7 +87,7 @@ const Banner = () => {
           <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image src={"/shofify.svg"} width={100} height={100} alt="brand" />
           </div>
-          <div>
+          <div className="lg:border-r-2 border-[#c9d6d3] lg:w-[200px]">
             <Image src={"/coinbase.svg"} width={100} height={100} alt="brand" />
           </div>
           <div>

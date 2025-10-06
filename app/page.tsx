@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import Banner from "@/components/Banner/page";
 import Faq from "@/components/Faq/page";
 import FastSolution from "@/components/FastSolution/page";

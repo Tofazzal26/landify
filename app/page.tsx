@@ -5,6 +5,7 @@ import HappyClient from "@/components/HappyClient/page";
 import OurService from "@/components/OurService/page";
 import Pricing from "@/components/Pricing/page";
 import Seamless from "@/components/Seamless/page";
+import Talk from "@/components/Talk/page";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <HappyClient />
       <Pricing />
       <Faq />
+      <Talk />
     </div>
   );
 }
